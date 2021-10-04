@@ -28,3 +28,11 @@ Other resources:
 - Covered the probability (and introduction to statistics) lectures by Tom
 - Materials posted in `lectures/L03_probabilty_statistics`
 - No assignments
+
+
+## Week 4: 2021-09-28
+
+- Covered various probability distributions
+- Materials posted in `lectures/L04_probability_distributions`
+- Assignment posted on linear algebra and probability -- See announcements.
+
